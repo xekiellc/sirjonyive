@@ -1,5 +1,54 @@
 {
-  "lastUpdated": "",
-  "articles": [],
+  "lastUpdated": "2026-03-29T15:42:17.510Z",
+  "articles": [
+    {
+      "title": "iyO amends lawsuit against OpenAI’s io, now alleges trade secret theft",
+      "url": "https://9to5mac.com/2026/03/26/iyo-amends-lawsuit-against-openais-io-now-alleges-trade-secret-theft/",
+      "source": "9to5Mac",
+      "publishedAt": "2026-03-27T02:47:10Z",
+      "summary": "iyO has amended its lawsuit against OpenAI's hardware division io, now alleging that former Apple designer Tang Tan—who co-founded io—was given access to confidential designs that constitute trade secret theft. The expanded legal complaint broadens the initial scope of iyO's case against OpenAI's hardware ambitions.",
+      "urlToImage": "https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2025/11/ive-altman-powell-jobs.webp?resize=1200%2C628&quality=82&strip=all&ssl=1"
+    },
+    {
+      "title": "Apple Gives iPhone Designers Bonuses Up to $400K to Counter OpenAI Poaching",
+      "url": "https://www.macrumors.com/2026/03/26/apple-iphone-designer-bonuses/",
+      "source": "MacRumors",
+      "publishedAt": "2026-03-26T23:28:00Z",
+      "summary": "Apple distributed bonuses worth up to $400,000 in restricted stock units to its iPhone Product Design team to prevent talent defection to competitors, particularly OpenAI. The retention effort, totaling between $200-400 million, comes as OpenAI aggressively recruits Apple's hardware designers for its consumer device projects.",
+      "urlToImage": "https://images.macrumors.com/t/f3VEEbWYtJRKFzkdAIZytTWXIpg=/2676x/article-new/2022/01/Apple-Logo-Cash-Feature-Mint.jpg"
+    },
+    {
+      "title": "\"Anything good is kind of costly\" says Marc Newson",
+      "url": "https://www.dezeen.com/2026/03/26/marc-newson-chateau-la-coste-interview/",
+      "source": "Dezeen",
+      "publishedAt": "2026-03-26T11:25:43Z",
+      "summary": "Marc Newson, Jony Ive's longtime collaborator and LoveFrom co-founder, reflects on four decades of design practice in a new interview, discussing affordability in luxury design and his current projects including Ferrari's first electric vehicle. Newson, whose work became the most expensive piece ever sold at auction by a living designer, maintains that \"anything good is kind of costly.\"",
+      "urlToImage": "https://static.dezeen.com/uploads/2026/03/hero-marc-newson-interview_dezeen_2364_col_0.jpg"
+    },
+    {
+      "title": "Meet the former Apple designer building a new AI interface at Hark | TechCrunch",
+      "url": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
+      "source": "TechCrunch",
+      "publishedAt": "2026-03-24T16:00:00Z",
+      "summary": "Former Apple designer joins Hark, Brett Adcock's new AI startup developing custom hardware and interfaces for personal intelligence products. The company plans to design multimodal AI models, hardware, and user interfaces in tandem to create a \"seamless end-to-end\" experience that anticipates user needs.",
+      "urlToImage": "https://techcrunch.com/wp-content/uploads/2026/03/Screenshot-2026-03-24-at-6.20.59-AM.png?w=939"
+    },
+    {
+      "title": "Inside OpenAI's talent pipeline: See who's feeding and hiring away workers at Sam Altman's AI giant",
+      "url": "https://www.businessinsider.com/openai-hiring-pipeline-google-apple-meta-microsoft-startups-data-2026-3",
+      "source": "Business Insider",
+      "publishedAt": "2026-03-23T09:56:01Z",
+      "summary": "Analysis of OpenAI's hiring patterns reveals the company has aggressively recruited from major tech companies, particularly Google and Apple, as it builds its hardware and AI capabilities. Many former OpenAI employees subsequently moved to smaller AI startups, creating a talent pipeline that extends Sam Altman's influence across the industry.",
+      "urlToImage": "https://i.insider.com/69bd7b3258b5806618e7cce6?width=1200&format=jpeg"
+    },
+    {
+      "title": "A $373 Clock With No Hands Sounds Wild Until You See It",
+      "url": "https://the-gadgeteer.com/2026/03/22/a-373-clock-with-no-hands-sounds-wild-until-you-see-it/",
+      "source": "The Gadgeteer",
+      "publishedAt": "2026-03-22T05:10:13Z",
+      "summary": "Jony Ive's latest design—a $373 handless clock—exemplifies the former Apple design chief's continued pursuit of radical minimalism in consumer products. The timepiece removes traditional clock hands entirely, demonstrating the kind of confident design philosophy that defined Ive's tenure at Apple and now characterizes his independent work at LoveFrom.",
+      "urlToImage": "https://the-gadgeteer.com/wp-content/uploads/2026/03/Jony-Ive-Clock-Balmuda.jpeg"
+    }
+  ],
   "archive": []
 }
