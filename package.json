@@ -1,0 +1,13 @@
+{
+  "name": "sirjonyive",
+  "version": "1.0.0",
+  "description": "The definitive tribute site to Sir Jony Ive",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "fetch-news": "node scripts/fetch-news.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
