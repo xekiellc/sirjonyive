@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-03-29T15:42:17.510Z",
+  "lastUpdated": "2026-04-05T08:04:09.155Z",
   "articles": [
+    {
+      "title": "BMW’s Design Boss Says Ferrari Just Proved Him Right About Physical Buttons",
+      "url": "https://www.bmwblog.com/2026/04/02/bmw-design-boss-ferrari-luce-jony-ive-physical-buttons/",
+      "source": "BMWBLOG",
+      "publishedAt": "2026-04-03T00:20:53Z",
+      "summary": "BMW's design chief Adrian van Hooydonk has cited Ferrari's return to physical buttons as validation of his position against touchscreen interfaces, invoking Jony Ive's design philosophy in the ongoing automotive interface debate. The statement represents a broader industry shift away from screen-dominated cockpits toward tactile controls, with luxury automakers leading the retreat from digital-first design paradigms.",
+      "urlToImage": "https://cdn.bmwblog.com/wp-content/uploads/2025/11/apple-carplay-idrive-x-01.jpg"
+    },
+    {
+      "title": "Apple awards rare $200K–$400K bonuses to iPhone designers to stem exodus to OpenAI",
+      "url": "https://macdailynews.com/2026/03/30/apple-awards-rare-200k-400k-bonuses-to-iphone-designers-to-stem-exodus-to-openai/",
+      "source": "Macdailynews.com",
+      "publishedAt": "2026-03-30T18:06:03Z",
+      "summary": "Apple has distributed exceptional retention bonuses ranging from $200,000 to $400,000 to its iPhone hardware design team as designers increasingly defect to OpenAI and other AI startups. The unprecedented compensation reflects the company's growing concern over talent hemorrhaging to competitors developing AI-native hardware products.",
+      "urlToImage": "https://macdailynews.com/wp-content/uploads/2024/08/240828_apple_money_logo.png"
+    },
+    {
+      "title": "Where is defining gadget of AI age? Jony Ive, former design chief of Apple, is working on his toughest assignment yet, give AI a physique",
+      "url": "https://economictimes.indiatimes.com/opinion/et-commentary/where-is-defining-gadget-of-ai-age-jony-ive-former-design-chief-of-apple-is-working-on-his-toughest-assignment-yet-give-ai-a-physique/articleshow/129875503.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-03-29T04:13:42Z",
+      "summary": "Jony Ive faces his most challenging design brief since the iPhone: creating a physical form factor for artificial intelligence in collaboration with OpenAI. The project represents an attempt to define the AI era's signature device, as early AI hardware efforts have largely failed to capture consumer imagination or achieve commercial success.",
+      "urlToImage": "https://img.etimg.com/thumb/width-1200,height-900,imgsize-527373,resizemode-75,msid-129875503/opinion/et-commentary/where-is-defining-gadget-of-ai-age-jony-ive-former-design-chief-of-apple-is-working-on-his-toughest-assignment-yet-give-ai-a-physique.jpg"
+    },
     {
       "title": "iyO amends lawsuit against OpenAI’s io, now alleges trade secret theft",
       "url": "https://9to5mac.com/2026/03/26/iyo-amends-lawsuit-against-openais-io-now-alleges-trade-secret-theft/",
