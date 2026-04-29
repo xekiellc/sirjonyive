@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-04-05T08:04:09.155Z",
+  "lastUpdated": "2026-04-29T08:01:09.668Z",
   "articles": [
+    {
+      "title": "OpenAI is building a phone that would make apps obsolete. The supply chain says it might actually ship.",
+      "url": "https://thenextweb.com/news/openai-qualcomm-ai-phone-agents-replace-apps/",
+      "source": "The Next Web",
+      "publishedAt": "2026-04-27T17:15:21Z",
+      "summary": "OpenAI is developing a smartphone centered on AI agents rather than traditional apps, with Qualcomm and MediaTek jointly designing a custom processor and Luxshare Precision handling manufacturing, according to supply chain analyst Ming-Chi Kuo. The device represents a fundamental reimagining of mobile interaction, replacing the app-based paradigm with AI-driven task completion. This marks a significant pivot for OpenAI, which had previously denied plans to enter the smartphone market.",
+      "urlToImage": "https://media.thenextweb.com/2026/04/Qualcomm-President-and-CEO-Cristiano-Amon.avif"
+    },
+    {
+      "title": "Could This New AI Smartphone Compete With Apple? Qualcomm Shares Rise",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/04/27/could-this-new-ai-smartphone-compete-with-apple-qualcomm-shares-rise/",
+      "source": "Forbes",
+      "publishedAt": "2026-04-27T14:29:43Z",
+      "summary": "OpenAI's smartphone development appears linked to Sam Altman's vision for AI \"companions,\" a project that gained momentum after the company recruited Apple's former design chief Jony Ive last year. The news sent Qualcomm shares higher on speculation about the chip partnership. The timing suggests Ive's involvement may be instrumental in shaping OpenAI's hardware ambitions beyond the previously rumored standalone AI device.",
+      "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69ef72bad9b2c4738f3dfae3/0x0.jpg?format=jpg&crop=3543,1993,x0,y181,safe&height=900&width=1600&fit=bounds"
+    },
+    {
+      "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
+      "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
+      "source": "MacRumors",
+      "publishedAt": "2026-04-27T13:53:17Z",
+      "summary": "Supply chain analyst Ming-Chi Kuo reports that OpenAI has reversed course and is now actively developing a smartphone to compete with the iPhone, contradicting earlier denials from the company. The project represents a significant strategic shift as OpenAI moves beyond software into hardware competition with Apple. Kuo's supply chain intelligence suggests concrete manufacturing partnerships are already in place, lending credibility to the smartphone's potential reality.",
+      "urlToImage": "https://images.macrumors.com/t/SvTz_-2top3kcDzra47VmgO7yq8=/1600x/article-new/2025/12/openai-logo-orange.jpg"
+    },
     {
       "title": "BMW’s Design Boss Says Ferrari Just Proved Him Right About Physical Buttons",
       "url": "https://www.bmwblog.com/2026/04/02/bmw-design-boss-ferrari-luce-jony-ive-physical-buttons/",
