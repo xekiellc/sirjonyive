@@ -2,9 +2,8 @@ name: Daily News Refresh
 
 on:
   schedule:
-    # Runs daily at 6:00 AM UTC
     - cron: '0 6 * * *'
-  workflow_dispatch: # allows manual trigger from GitHub Actions tab
+  workflow_dispatch:
 
 jobs:
   refresh-news:
@@ -40,3 +39,15 @@ jobs:
           NETLIFY_BUILD_HOOK: ${{ secrets.NETLIFY_BUILD_HOOK }}
         run: |
           curl -X POST -d '{}' "$NETLIFY_BUILD_HOOK"
+
+      - name: Post to Voxxee
+        run: |
+          curl -s -X POST https://xenchee.netlify.app/.netlify/functions/pipeline-post \
+            -H "Content-Type: application/json" \
+            -H "x-pipeline-secret: ${{ secrets.PIPELINE_SECRET }}" \
+            -d '{
+              "slug": "sir-jony-ive",
+              "title": "🍎 Sir Jony Ive — Latest News & Design Updates",
+              "summary": "The latest news and updates on Sir Jony Ive, Apple design legend and creative visionary.",
+              "url": "https://sirjonyive.com"
+            }'
