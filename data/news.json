@@ -1,6 +1,30 @@
 {
-  "lastUpdated": "2026-05-09T07:43:21.797Z",
+  "lastUpdated": "2026-05-27T09:29:19.440Z",
   "articles": [
+    {
+      "title": "iPhone designer Jony Ive's first full car is the electric Ferrari Luce",
+      "url": "https://timesofindia.indiatimes.com/technology/tech-news/iphone-designer-jony-ives-first-full-car-is-the-electric-ferrari-luce/articleshow/131325552.cms",
+      "source": "The Times of India",
+      "publishedAt": "2026-05-26T09:23:05Z",
+      "summary": "Ferrari unveiled the Luce, its first fully electric vehicle co-designed by Jony Ive and Marc Newson at LoveFrom, marking the luxury carmaker's dramatic entry into the EV market. The five-seat electric supercar delivers 1,035 horsepower and accelerates from 0-60 mph in 2.5 seconds, representing a complete departure from Ferrari's traditional design language. Starting at €550,000, the Luce begins deliveries in the fourth quarter of 2026.",
+      "urlToImage": "https://static.toiimg.com/thumb/msid-131325650,width-1280,height-720,resizemode-6,overlay-toi_sw,pt-32,y_pad-600/photo.jpg"
+    },
+    {
+      "title": "Ferrari Reveals $640,000 EV Co-Designed by Jony Ive",
+      "url": "https://www.macrumors.com/2026/05/25/ferrari-luce-jony-ive-photos/",
+      "source": "MacRumors",
+      "publishedAt": "2026-05-26T02:17:55Z",
+      "summary": "Apple's former design chief Jony Ive and his LoveFrom studio collaborated with Ferrari to create a singular design language that unites the exterior and interior of the $640,000 Luce electric vehicle. The partnership represents Ive's most significant automotive project since leaving Apple, demonstrating his design philosophy applied to luxury electric mobility. Ferrari positioned the collaboration as central to reimagining what an electric Ferrari could represent in the luxury automotive space.",
+      "urlToImage": "https://images.macrumors.com/t/tdoLhqfoJ7n48bGfsK5PsET9wQE=/1600x/article-new/2026/05/Ferrari-Luce-Sport.jpg"
+    },
+    {
+      "title": "ferrari unveils luce, its first electric car designed by jony ive and marc newson",
+      "url": "https://www.designboom.com/technology/ferrari-luce-first-electric-car-jony-ive-marc-newson-lovefrom/",
+      "source": "Designboom",
+      "publishedAt": "2026-05-25T21:42:50Z",
+      "summary": "LoveFrom's Jony Ive and Marc Newson designed Ferrari's inaugural electric vehicle with distinctive rear-hinged doors and a revolutionary five-seat layout that breaks from traditional Ferrari conventions. The Luce features LoveFrom-designed controls integrated throughout the cabin, showcasing the design studio's automotive capabilities beyond their previous consumer electronics work. The collaboration marks the first complete vehicle designed by Ive's studio since its founding after his departure from Apple.",
+      "urlToImage": "https://www.designboom.com/twitterimages/uploads/2026/05/ferrari-luce-electric-car-jony-ive-marc-newson-designboom-FB.jpg"
+    },
     {
       "title": "OpenAI's new AI-focused smartphone is taking aim at Apple's iPhone",
       "url": "https://www.tweaktown.com/news/111487/openais-new-ai-focused-smartphone-is-taking-aim-at-apples-iphone/index.html",
@@ -72,7 +96,9 @@
       "publishedAt": "2026-04-27T14:29:43Z",
       "summary": "OpenAI's smartphone development appears linked to Sam Altman's vision for AI \"companions,\" a project that gained momentum after the company recruited Apple's former design chief Jony Ive last year. The news sent Qualcomm shares higher on speculation about the chip partnership. The timing suggests Ive's involvement may be instrumental in shaping OpenAI's hardware ambitions beyond the previously rumored standalone AI device.",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69ef72bad9b2c4738f3dfae3/0x0.jpg?format=jpg&crop=3543,1993,x0,y181,safe&height=900&width=1600&fit=bounds"
-    },
+    }
+  ],
+  "archive": [
     {
       "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
       "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
@@ -96,9 +122,7 @@
       "publishedAt": "2026-03-30T18:06:03Z",
       "summary": "Apple has distributed exceptional retention bonuses ranging from $200,000 to $400,000 to its iPhone hardware design team as designers increasingly defect to OpenAI and other AI startups. The unprecedented compensation reflects the company's growing concern over talent hemorrhaging to competitors developing AI-native hardware products.",
       "urlToImage": "https://macdailynews.com/wp-content/uploads/2024/08/240828_apple_money_logo.png"
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "Where is defining gadget of AI age? Jony Ive, former design chief of Apple, is working on his toughest assignment yet, give AI a physique",
       "url": "https://economictimes.indiatimes.com/opinion/et-commentary/where-is-defining-gadget-of-ai-age-jony-ive-former-design-chief-of-apple-is-working-on-his-toughest-assignment-yet-give-ai-a-physique/articleshow/129875503.cms",
