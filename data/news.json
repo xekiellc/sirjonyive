@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-05-27T09:29:19.440Z",
+  "lastUpdated": "2026-05-28T09:45:20.325Z",
   "articles": [
+    {
+      "title": "Ferrari Reveals Luce, Its First Fully Electric Vehicle, Co-Designed by Jony Ive",
+      "url": "https://www.cnet.com/roadshow/news/first-ferrari-ev-co-designed-by-jony-ive-is-here/",
+      "source": "CNET",
+      "publishedAt": "2026-05-26T18:32:04Z",
+      "summary": "Ferrari unveiled the Luce, its first fully electric vehicle co-designed by Jony Ive's LoveFrom studio, marking a significant departure from traditional Ferrari aesthetics. The launch comes as other luxury automakers retreat from EV plans, with public reception proving sharply polarized. The collaboration represents Ferrari's belated entry into the electric vehicle market with the backing of Apple's former chief design officer.",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ed3343b683282a9495cd7d8a78156b8639c3c349/hub/2026/05/26/da7ed773-2f2b-4434-b8c9-b8db19f9b734/ferrari-luce.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+      "title": "The Ferrari Luce will have Samsung OLED displays with holes and stacked design",
+      "url": "https://www.gsmarena.com/the_ferrari_luce_will_have_samsung_oled_displays_with_holes_and_stacked_design-news-73001.php",
+      "source": "GSMArena.com",
+      "publishedAt": "2026-05-26T17:42:02Z",
+      "summary": "The Ferrari Luce features multiple Samsung-manufactured OLED displays with advanced hole-punch and stacked designs throughout its interior. Sir Jony Ive's LoveFrom studio designed both the exterior and interior of the vehicle, integrating sophisticated display technology as a central element of the user experience.",
+      "urlToImage": "https://fdn.gsmarena.com/imgroot/news/26/05/ferrari-luce-samsung-displays/-952x498w6/gsmarena_000.jpg"
+    },
+    {
+      "title": "Jony Ive’s Ferrari looks nothing like a Ferrari",
+      "url": "https://www.theverge.com/transportation/937077/ferrari-luce-ev-apple-car-jony-ive-design",
+      "source": "The Verge",
+      "publishedAt": "2026-05-26T16:22:59Z",
+      "summary": "Jony Ive's design for Ferrari's first electric vehicle, the Luce, represents a radical aesthetic departure from the brand's traditional design language. The collaboration highlights Ferrari's unusually late entry into the EV market, coming at a time when most automakers have scaled back their electric ambitions.",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Luce_30rtv4_lightson_1x1hr_d955d06c-1be5-4001-99e2-55ce7e65f960_4a4d75.jpg?quality=90&strip=all&crop=0%2C22.665645835327%2C100%2C53.446325992659&w=1200"
+    },
+    {
+      "title": "Sir Jony Ive on Designing the Incredible UI of Ferrari's New EV",
+      "url": "https://www.core77.com/posts/144248/Sir-Jony-Ive-on-Designing-the-Incredible-UI-of-Ferraris-New-EV",
+      "source": "Core77.com",
+      "publishedAt": "2026-05-26T12:59:00Z",
+      "summary": "Ferrari entrusted the design of their inaugural EV, the Luce, to LoveFrom, the design collective led by Sir Jony Ive and Marc Newson. The decision to engage an external design firm for such a pivotal vehicle represents an unprecedented move for Ferrari's traditionally insular design process.",
+      "urlToImage": "https://s3files.core77.com/blog/images/lead_n_spotlight/1835831_lead_400_144248_.jpg"
+    },
     {
       "title": "iPhone designer Jony Ive's first full car is the electric Ferrari Luce",
       "url": "https://timesofindia.indiatimes.com/technology/tech-news/iphone-designer-jony-ives-first-full-car-is-the-electric-ferrari-luce/articleshow/131325552.cms",
@@ -64,7 +96,9 @@
       "publishedAt": "2026-04-29T21:24:00Z",
       "summary": "OpenAI is reportedly developing a smartphone that would replace traditional apps with AI agents, marking the company's entry into hardware manufacturing. The device represents a fundamental shift from app-based mobile experiences to AI-driven interactions, according to industry reports.",
       "urlToImage": "https://www.cnet.com/a/img/resize/51e46813574590393f5c27e86c772debd07f1ec6/hub/2026/04/27/6dd6eea0-e131-4f17-adca-908116ca3132/gettyimages-2271060320.jpg?auto=webp&fit=crop&height=675&width=1200"
-    },
+    }
+  ],
+  "archive": [
     {
       "title": "This 20th Anniversary iPhone rumor is speculative but persuasive",
       "url": "https://9to5mac.com/2026/04/28/this-20th-anniversary-iphone-rumor-is-speculative-but-persuasive/",
@@ -96,9 +130,7 @@
       "publishedAt": "2026-04-27T14:29:43Z",
       "summary": "OpenAI's smartphone development appears linked to Sam Altman's vision for AI \"companions,\" a project that gained momentum after the company recruited Apple's former design chief Jony Ive last year. The news sent Qualcomm shares higher on speculation about the chip partnership. The timing suggests Ive's involvement may be instrumental in shaping OpenAI's hardware ambitions beyond the previously rumored standalone AI device.",
       "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/69ef72bad9b2c4738f3dfae3/0x0.jpg?format=jpg&crop=3543,1993,x0,y181,safe&height=900&width=1600&fit=bounds"
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "OpenAI Reportedly Working on an AI Smartphone to Rival iPhone",
       "url": "https://www.macrumors.com/2026/04/27/openai-working-on-an-ai-smartphone/",
