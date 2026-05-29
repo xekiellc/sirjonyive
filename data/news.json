@@ -1,6 +1,46 @@
 {
-  "lastUpdated": "2026-05-28T09:45:20.325Z",
+  "lastUpdated": "2026-05-29T09:36:03.446Z",
   "articles": [
+    {
+      "title": "Ferrari's First EV Gets Pope Leo's Blessing, but Everyone Else Hates It",
+      "url": "https://www.cnet.com/roadshow/news/ferraris-first-ev-gets-pope-leos-blessing-but-everyone-else-hates-it/",
+      "source": "CNET",
+      "publishedAt": "2026-05-28T00:01:21Z",
+      "summary": "Ferrari's first electric vehicle, the Luce, has received a polarizing public reception despite earning an unusual papal blessing. The four-door sedan underwent a design transformation with assistance from Jony Ive's LoveFrom studio.",
+      "urlToImage": "https://www.cnet.com/a/img/resize/ed3343b683282a9495cd7d8a78156b8639c3c349/hub/2026/05/26/da7ed773-2f2b-4434-b8c9-b8db19f9b734/ferrari-luce.jpg?auto=webp&fit=crop&height=675&width=1200"
+    },
+    {
+      "title": "All the news about Ferrari’s polarizing Luce EV",
+      "url": "https://www.theverge.com/transportation/938513/ferrari-luce-ev",
+      "source": "The Verge",
+      "publishedAt": "2026-05-27T20:22:57Z",
+      "summary": "Ferrari's Luce EV, designed with input from Jony Ive's LoveFrom, has provoked fierce criticism from traditionalist Ferrari enthusiasts who reject its departure from the marque's aesthetic heritage. The electric four-door sedan represents a stark divergence from Ferrari's sporting DNA, with critics arguing that Ive's minimalist Apple design philosophy proves incompatible with automotive passion.",
+      "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/land-ferrari-luce-papa.jpeg?quality=90&strip=all&crop=0%2C3.3965877564098%2C100%2C93.20682448718&w=1200"
+    },
+    {
+      "title": "I Like Ferrari's Luce EV. But This Is Why It's Heartbreaking",
+      "url": "https://www.wired.com/story/i-like-ferrari-luce-ev-but-this-is-why-its-heartbreaking/",
+      "source": "Wired",
+      "publishedAt": "2026-05-27T15:07:48Z",
+      "summary": "The Ferrari Luce EV, designed by Jony Ive and former Apple colleagues, offers a tantalizing glimpse into what might have emerged from Apple's abandoned $10 billion automotive venture. While the author appreciates the design execution, the project underscores the lost potential of Apple's ultimately scrapped car program.",
+      "urlToImage": "https://media.wired.com/photos/6a16fba7e0d83ded0b27fefb/191:100/w_1280,c_limit/Luce_5rtv2_Lightson_6000x3375.jpg"
+    },
+    {
+      "title": "Ferrari's first EV is ruthlessly mocked, described as 'straight to the junkyard trash' and even condemned by former boss - as share price slumps",
+      "url": "https://www.dailymail.com/news/article-15851447/Ferraris-EV-ruthlessly-mocked-described-straight-junkyard-trash-condemned-former-boss-share-price-slumps.html",
+      "source": "Dailymail.com",
+      "publishedAt": "2026-05-27T09:01:45Z",
+      "summary": "Ferrari's £474,320 Luce EV has triggered savage criticism from enthusiasts and industry veterans, with detractors dismissing the LoveFrom-designed vehicle as worthless. The backlash has been so severe that Ferrari's share price has declined following the unveiling of its first five-seater electric vehicle.",
+      "urlToImage": "https://i.dailymail.com/1s/2026/05/27/09/108895395-0-image-m-18_1779871023983.jpg"
+    },
+    {
+      "title": "Memes race to poke fun at Jony Ive’s new Ferrari Luce design",
+      "url": "https://www.cultofmac.com/news/jony-ives-ferrari-luce-design-unveiled",
+      "source": "Cult of Mac",
+      "publishedAt": "2026-05-26T14:15:06Z",
+      "summary": "Jony Ive's Ferrari Luce design has already spawned a wave of internet memes and fierce debate within days of its unveiling. The electric vehicle represents the closest realization of what an Apple car might have resembled, given Ive's central role in the project.",
+      "urlToImage": "https://www.cultofmac.com/wp-content/uploads/2026/05/Ferrari-Luce-in-red.jpg.webp"
+    },
     {
       "title": "Ferrari Reveals Luce, Its First Fully Electric Vehicle, Co-Designed by Jony Ive",
       "url": "https://www.cnet.com/roadshow/news/first-ferrari-ev-co-designed-by-jony-ive-is-here/",
@@ -56,7 +96,9 @@
       "publishedAt": "2026-05-25T21:42:50Z",
       "summary": "LoveFrom's Jony Ive and Marc Newson designed Ferrari's inaugural electric vehicle with distinctive rear-hinged doors and a revolutionary five-seat layout that breaks from traditional Ferrari conventions. The Luce features LoveFrom-designed controls integrated throughout the cabin, showcasing the design studio's automotive capabilities beyond their previous consumer electronics work. The collaboration marks the first complete vehicle designed by Ive's studio since its founding after his departure from Apple.",
       "urlToImage": "https://www.designboom.com/twitterimages/uploads/2026/05/ferrari-luce-electric-car-jony-ive-marc-newson-designboom-FB.jpg"
-    },
+    }
+  ],
+  "archive": [
     {
       "title": "OpenAI's new AI-focused smartphone is taking aim at Apple's iPhone",
       "url": "https://www.tweaktown.com/news/111487/openais-new-ai-focused-smartphone-is-taking-aim-at-apples-iphone/index.html",
@@ -96,9 +138,7 @@
       "publishedAt": "2026-04-29T21:24:00Z",
       "summary": "OpenAI is reportedly developing a smartphone that would replace traditional apps with AI agents, marking the company's entry into hardware manufacturing. The device represents a fundamental shift from app-based mobile experiences to AI-driven interactions, according to industry reports.",
       "urlToImage": "https://www.cnet.com/a/img/resize/51e46813574590393f5c27e86c772debd07f1ec6/hub/2026/04/27/6dd6eea0-e131-4f17-adca-908116ca3132/gettyimages-2271060320.jpg?auto=webp&fit=crop&height=675&width=1200"
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "This 20th Anniversary iPhone rumor is speculative but persuasive",
       "url": "https://9to5mac.com/2026/04/28/this-20th-anniversary-iphone-rumor-is-speculative-but-persuasive/",
