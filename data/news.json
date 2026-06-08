@@ -1,6 +1,38 @@
 {
-  "lastUpdated": "2026-05-31T08:34:46.807Z",
+  "lastUpdated": "2026-06-08T10:17:35.136Z",
   "articles": [
+    {
+      "title": "Has China made a better electric Ferrari than Ferrari?",
+      "url": "https://www.the-independent.com/cars/electric-vehicles/ferrari-luce-electric-car-china-byd-b2990545.html",
+      "source": "The-independent.com",
+      "publishedAt": "2026-06-05T14:34:33Z",
+      "summary": "Ferrari's controversial all-electric Luce, designed in collaboration with Apple alumni, has drawn scrutiny as the marque attempts to transition into the electric era. The vehicle represents Ferrari's most significant departure from tradition, featuring Apple-influenced design language that has polarized enthusiasts and investors alike.",
+      "urlToImage": "https://static.the-independent.com/2026/05/28/18/01KSJ6ZPAQ0TD0GY2MZW7XS5KN.jpg?trim=0,0,0,0&width=1200&height=800&crop=1200:800"
+    },
+    {
+      "title": "OpenAI's CFO says she can't say if Jony Ive's device is an earpiece",
+      "url": "https://www.businessinsider.com/openai-cfo-ai-device-jony-ive-2026-6",
+      "source": "Business Insider",
+      "publishedAt": "2026-06-03T18:08:22Z",
+      "summary": "OpenAI CFO Sarah Friar declined to confirm whether the highly anticipated AI device being developed with Jony Ive takes the form of an earpiece. The statement represents one of the few public acknowledgments from OpenAI regarding the specifics of their collaboration with the former Apple design chief.",
+      "urlToImage": "https://i.insider.com/6a205cceb4fb977f35983cd2?width=1200&format=jpeg"
+    },
+    {
+      "title": "Flush With Cash From OpenAI, Opal Is Making an AI-Powered Audio Gadget",
+      "url": "https://www.wired.com/story/opal-electronics-openai-investment-ai-powered-audio-gadget/",
+      "source": "Wired",
+      "publishedAt": "2026-06-02T15:30:00Z",
+      "summary": "Opal Electronics, previously known for premium webcams, has secured substantial investment from OpenAI and Samsung to develop an AI-powered audio device. The pivot marks the company's expansion into consumer electronics, leveraging OpenAI's backing to enter the emerging AI hardware market.",
+      "urlToImage": "https://media.wired.com/photos/6a1db2153696beebf95db3a0/191:100/w_1280,c_limit/Opal_Tadpole_01.jpg"
+    },
+    {
+      "title": "Jony Ive Discusses Ferrari Luce Design [VIDEO]",
+      "url": "https://www.iphoneincanada.ca/2026/06/01/jony-ive-discusses-ferrari-luce-design-video/",
+      "source": "iPhone in Canada",
+      "publishedAt": "2026-06-01T18:51:40Z",
+      "summary": "Jony Ive has provided rare public commentary on his design work for Ferrari's Luce, the 1,035-horsepower all-electric supercar that deliberately eschews touchscreens in favor of tactile interfaces. The collaboration represents Ive's most high-profile automotive project since departing Apple, applying his minimalist philosophy to Ferrari's electric transformation.",
+      "urlToImage": "https://cdn.iphoneincanada.ca/wp-content/uploads/2026/06/Jony-Ive-Discusses-Ferrari-Luce-Design-VIDEO_447335_e96e9.jpg"
+    },
     {
       "title": "Slate Money - Least Cool Ferrari Ever",
       "url": "https://shows.acast.com/slate-money/episodes/6a19f87f7296106df5430f09",
@@ -64,7 +96,9 @@
       "publishedAt": "2026-05-27T20:22:57Z",
       "summary": "Ferrari's Luce EV, designed with input from Jony Ive's LoveFrom, has provoked fierce criticism from traditionalist Ferrari enthusiasts who reject its departure from the marque's aesthetic heritage. The electric four-door sedan represents a stark divergence from Ferrari's sporting DNA, with critics arguing that Ive's minimalist Apple design philosophy proves incompatible with automotive passion.",
       "urlToImage": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/land-ferrari-luce-papa.jpeg?quality=90&strip=all&crop=0%2C3.3965877564098%2C100%2C93.20682448718&w=1200"
-    },
+    }
+  ],
+  "archive": [
     {
       "title": "I Like Ferrari's Luce EV. But This Is Why It's Heartbreaking",
       "url": "https://www.wired.com/story/i-like-ferrari-luce-ev-but-this-is-why-its-heartbreaking/",
@@ -96,9 +130,7 @@
       "publishedAt": "2026-05-26T18:32:04Z",
       "summary": "Ferrari unveiled the Luce, its first fully electric vehicle co-designed by Jony Ive's LoveFrom studio, marking a significant departure from traditional Ferrari aesthetics. The launch comes as other luxury automakers retreat from EV plans, with public reception proving sharply polarized. The collaboration represents Ferrari's belated entry into the electric vehicle market with the backing of Apple's former chief design officer.",
       "urlToImage": "https://www.cnet.com/a/img/resize/ed3343b683282a9495cd7d8a78156b8639c3c349/hub/2026/05/26/da7ed773-2f2b-4434-b8c9-b8db19f9b734/ferrari-luce.jpg?auto=webp&fit=crop&height=675&width=1200"
-    }
-  ],
-  "archive": [
+    },
     {
       "title": "The Ferrari Luce will have Samsung OLED displays with holes and stacked design",
       "url": "https://www.gsmarena.com/the_ferrari_luce_will_have_samsung_oled_displays_with_holes_and_stacked_design-news-73001.php",
